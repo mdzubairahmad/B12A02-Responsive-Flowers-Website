@@ -69,6 +69,21 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }
+.spin {
+    display: flex;
+    margin: 50px 50px;
+    margin-top: 100px;
+}
+.flower-store {
+    width: 100%;
+    height: auto;
+}
+.logo-spin-2 {
+    width: 150px;
+    height: auto;
+    margin-top: -60px;
+    margin-left: -100px;
+}
 .sample-flower-image {
     border: 1px solid wheat;
     border-radius: 5px;
@@ -87,4 +102,62 @@
     background-color: #E95A08;
     border: 1px solid #E95A08;
     border-radius: 5px;
+}
+.flower-plants {
+    text-align: center;
+    justify-content: center;
+    margin: 50px 10px;
+}
+.plants-lover {
+    font-size: 2.5rem;
+}
+.cols-rows {
+    margin: 50px 50px;
+}
+.picture-title {
+    text-align: center;
+}
+.image-flex {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.img-bloom {
+    background-image: url(../assets/deal-bloom.png);
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+}
+.Bloom-1 {
+    color: white;
+    text-align: center;
+    padding: 35px 0;
+}
+.shop {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.img-ana {
+    background-image: url(../assets/deal-ana.png);
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+}
+.Bloom-2 {
+    color: white;
+    text-align: center;
+    padding: 35px 0;
+}
+.img-zabo {
+    background-image: url(../assets/deal-zabo.png);
+    width: 500px;
+    height: 270px;
+    border-radius: 10px;
+    margin-top: 18px;
+}
+.Bloom-3 {
+    color: white;
+    text-align: center;
+    margin: 90px 0;
+    font-size: 2.5rem;
 }
