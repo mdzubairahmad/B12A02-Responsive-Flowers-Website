@@ -64,3 +64,27 @@
 .flower-card {
     margin: 20px 50px;
 }
+.flex-card {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+.sample-flower-image {
+    border: 1px solid wheat;
+    border-radius: 5px;
+}
+.sample-flower {
+    width: 100%;
+    height: auto;
+}
+.lily,.usd {
+    text-align: center;
+}
+.btn {
+    width: 100%;
+    height: 30px;
+    color: white;
+    background-color: #E95A08;
+    border: 1px solid #E95A08;
+    border-radius: 5px;
+}
