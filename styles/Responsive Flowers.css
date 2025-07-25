@@ -18,3 +18,36 @@
     display: flex;
     gap: 40px;
 }
+.bold-1 {
+    font-weight: 600;
+}
+.small {
+    color: #8987A1;
+}
+.bold-2 {
+    font-weight: 600;
+}
+.navbar-2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 50px;
+}
+.banner-main {
+    text-align: center;
+}
+.banner {
+    font-weight: 600;
+    font-size: 3rem;
+}
+.orenge {
+    color: #E95A08;
+}
+.paragraph {
+    color: #8987A1;
+    font-size: 15px;
+    justify-content: center;
+}
+.flower {
+    width: 400px;
+    height: auto;
+}
