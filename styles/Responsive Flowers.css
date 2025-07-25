@@ -203,7 +203,7 @@
 .icon-logo {
     padding: 7px;
 }
-@media screen and (max-width:576px) {
+@media screen and (max-width:425px) {
     .small,
     .bold-1 {
         display: none;
